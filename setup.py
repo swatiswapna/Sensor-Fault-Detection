@@ -15,8 +15,8 @@ def req_pakage(file_path:str) -> List[str]:
 setup(
     name='SensorpredictionTool',
     version='0.0.1',
-    author='Awnish_Ranjan',
-    author_email='ranjanawnish07@gmail.com',
+    author='Swati Swapna',
+    author_email='swatiswapnas.s@gmail.com',
     install_requires = req_pakage('requirements.txt'),
     packages=find_packages()
 )
